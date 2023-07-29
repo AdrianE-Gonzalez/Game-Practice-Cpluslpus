@@ -1,0 +1,11 @@
+How To Create An Empty Window In Cplusplus
+https://www.youtube.com/watch?v=yD0WzbKJcOg
+
+WinMain
+https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-winmain#example
+
+window_callback
+https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-callwindowproca
+
+CreateWindow
+https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-createwindowa
