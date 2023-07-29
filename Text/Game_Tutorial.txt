@@ -9,3 +9,10 @@ https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-callwindo
 
 CreateWindow
 https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-createwindowa
+
+
+Drawing Graphics
+https://www.youtube.com/watch?v=PJmpOhk9GXw&list=PL7Ej6SUky135IAAR3PFCFyiVwanauRqj3&index=4
+
+BitMap Info Header
+https://learn.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-bitmapinfoheader
