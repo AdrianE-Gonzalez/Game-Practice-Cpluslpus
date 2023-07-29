@@ -1,0 +1,3 @@
+StretchDIBits Doesnt Compile Code
+	Could Be mingw Install Messing It Up
+	Syntax Error In The Code
