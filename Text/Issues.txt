@@ -1,3 +1,7 @@
-StretchDIBits Doesnt Compile Code
+(Working Solution) StretchDIBits Doesnt Compile Code		//Look into a permanent solution
 	Could Be mingw Install Messing It Up
-	Syntax Error In The Code
+		-possible solution [https://youtu.be/Ee3EtYb8d1o?t=3720]
+		-above possible solution was correct, if you include the line "-lgdi32" when running the cplusplus file, it works (went through the comments section of the video)
+	Syntax Error In The Code 	//Wasn't the issue
+		-Doesn't seem to be the issue
+		- issue comes from the implementation of StretchDIBits not parameters.
